@@ -2,6 +2,7 @@
     cursor: default;
     text-align: center;
     color: #f9f;
+    user-select: none;
     font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
     background-color: rgb(4, 4, 7);
 }
